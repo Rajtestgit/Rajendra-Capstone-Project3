@@ -1,4 +1,3 @@
-# Rajendra-Capstone-Project3
 DESCRIPTION
 Create a CI/CD Pipeline to convert the legacy development process to a DevOps process.
 Background of the problem statement:
